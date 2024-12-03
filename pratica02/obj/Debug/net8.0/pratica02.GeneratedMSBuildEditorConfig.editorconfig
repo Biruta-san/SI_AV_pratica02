@@ -26,8 +26,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /workspaces/SI_AV_pratica02/pratica02
 build_property._RazorSourceGeneratorDebug = 
 
-[/workspaces/SI_AV_pratica02/pratica02/Pages/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlLmNzaHRtbA==
+[/workspaces/SI_AV_pratica02/pratica02/Pages/Carros/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2Fycm9zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/SI_AV_pratica02/pratica02/Pages/Carros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2Fycm9zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/workspaces/SI_AV_pratica02/pratica02/Pages/Error.cshtml]

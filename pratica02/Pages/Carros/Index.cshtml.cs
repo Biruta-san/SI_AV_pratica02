@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using pratica02.Data;
 using pratica02.Models;
 
-namespace pratica02.Pages
+namespace pratica02.Pages.Carros
 {
     public class IndexModel : PageModel
     {
